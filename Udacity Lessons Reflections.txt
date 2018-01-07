@@ -1,0 +1,5 @@
+Udacity Lessons: Reflections
+
+Viewing the diff between two files helped me find the bug because, it enabled me to find the sample of
+code I had modified voluntarely or involuntarely that caused the bug in my program, without having me go entirely
+through the two files.
